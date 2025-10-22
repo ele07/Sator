@@ -1,4 +1,4 @@
-# Sator
+lo# Sator
 Import java.utils.Scanner;
   Declaración de variable 
    String palabra = "SATOR"
@@ -8,6 +8,8 @@ int cont =0
     {"S","A","T","O","R"},
     {"A","R","E","P","O"},
     {"T","E","N","E","T"},
+    {"O","P","E","R","A"},
+    {"R","O","T","A","S"},
 }
   Recorrido horizontal 
       for( int i=o ; i<5 ; i++){
